@@ -8,8 +8,8 @@ let settingsBtn = document.getElementById('setting-btn');
 let settingsForm = document.getElementById('settings-form');
 let settings = document.querySelector('.settings');
 let container = document.querySelector('.container');
-// class - use .
-// id - #
+// declare class - .
+// declare id - #
 
 let time = 10;
 let score = 0;
